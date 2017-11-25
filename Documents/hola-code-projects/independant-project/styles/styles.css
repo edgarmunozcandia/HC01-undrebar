@@ -3,3 +3,12 @@ h1 {
   color: Red;
   font-size: 10;
 }
+
+h2 {
+  color: white;
+  font-size: 15;
+}
+p {
+  color: white;
+  font-size: 14;
+}
